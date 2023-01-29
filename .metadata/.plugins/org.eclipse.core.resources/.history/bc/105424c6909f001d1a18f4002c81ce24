@@ -1,0 +1,10 @@
+package com.Simplilearn.AppiumDemo;
+
+public class SpinnerExample {
+
+	AndroidDriver<MobileElement> driver;
+	
+	public void launchApp() {
+		
+	}
+}
